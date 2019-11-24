@@ -9,3 +9,5 @@
 .externalNativeBuild
 /release
 .idea/*
+
+app/google-services.json
